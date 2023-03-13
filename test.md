@@ -13,6 +13,3 @@
 - Text
 
 > Comment
-
-	- Text
-	- Text
